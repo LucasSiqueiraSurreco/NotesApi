@@ -1,6 +1,4 @@
-# 💻 API
-
-## Used in production:
+## 💻 Used in production:
 
 - Controllers;
 - Cors;
@@ -17,7 +15,7 @@
 
 <br />
 
-🔗[Frontend Project](https://github.com/LucasSiqueiraSurreco/NotesFront)
+🔗[Front-end Project](https://github.com/LucasSiqueiraSurreco/NotesFront)
 
 
 
